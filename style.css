@@ -53,6 +53,8 @@ main{
     height: 70px;
     background-color: #D9D9D9;
     border: none;
+    font-size: 27px;
+    text-align: center;
 }
 .container-remedio{
     display: flex;
